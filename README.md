@@ -97,3 +97,7 @@ MBA Student | Aspiring Business Analyst & Data-Driven Manager
 ---
 
 ⭐ *If you find this project useful, please star the repository to show your support!*
+
+## 📊 Dashboard Preview
+![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](sales_trends.png)

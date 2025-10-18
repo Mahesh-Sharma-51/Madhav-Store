@@ -12,6 +12,11 @@ To analyze and visualize key performance metrics such as revenue, profit, produc
 
 ---
 
+## 📊 Dashboard Preview
+![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](sales_trends.png)
+
+---
 ## 🧾 Dataset Details
 
 The dataset consists of **400+ records** across two files:
@@ -98,6 +103,4 @@ MBA Student | Aspiring Business Analyst & Data-Driven Manager
 
 ⭐ *If you find this project useful, please star the repository to show your support!*
 
-## 📊 Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
-![Dashboard Overview](sales_trends.png)
+
